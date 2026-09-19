@@ -22,7 +22,7 @@ except:
     pass
 
 
-client = Client('iceicebabybabybot@gmail.com', 'XxFreezingIcexX10', session_cookies=cookies)
+client = Client('iceicebabybabybot@gmail.com', 'i dont think so', session_cookies=cookies)
 
 #Save the session cookies (DO NOT LEAK OR TELL ENYONE ABOUT THE FORBIDDEN CHOCOLATE CHIP COOKIES)
 with open('session.json', 'w') as f:
